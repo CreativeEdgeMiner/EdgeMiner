@@ -1,0 +1,6 @@
+HASHRATE_UPDATE=300 # Require hashrate readout for this many seconds
+R_TEMP=88 # Restart temp in Degrees Celius
+INACTIVE_MINER_TIME=400 # If miner doesn't output hashrate for this many seconds, try switching pools/restarting
+RESPONCE_MINER_TIME=100 # Time for miner to give any output in this many seconds, try switching pools/restarting
+GPU_PERC_LOWER=50 # Percent lower hashrate of gpus with same name before giving error.
+GPU_ERROR_COUNT=3 # Count 3 errors for each gpu before restarting.

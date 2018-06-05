@@ -1,0 +1,18 @@
+[2018-01-24 17:39:12.673] [default] [info] Optiminer/Equihash 2.1.2 (C) Optiminer 2017
+[2018-01-24 17:39:12.673] [default] [info] Connecting to eu.minexpool.nl:9999.
+[2018-01-24 17:39:12.739] [default] [info] Using 16 verifier threads.
+[2018-01-24 17:39:12.740] [default] [info] Using generic kernel code.
+[2018-01-24 17:39:12.740] [default] [info] Reading bianry kernel from bin/Equihash96_5-Nvidia.bin
+[2018-01-24 17:39:12.879] [default] [info] Autodetected '--intensity 128' for device 0.
+[2018-01-24 17:39:12.880] [default] [info] [GPU0] Device info: {"id": "0/0" "name": "GeForce GTX 1080 Ti" "vendor": "Nvidia" "driver": "384.111"}
+[2018-01-24 17:39:12.926] [default] [info] GPU0 Waiting for work from pool.
+[2018-01-24 17:39:13.011] [default] [info] Extranonce is '6ffaf526'.
+[2018-01-24 17:39:13.168] [default] [info] Mining target is 0000400000000000000000000000000000000000000000000000000000000000
+[2018-01-24 17:39:13.168] [default] [error] Received invalid mining data!
+[2018-01-24 17:39:13.169] [default] [error] IO/Error communicating to eu.minexpool.nl
+[2018-01-24 17:39:13.190] [default] [info] Connecting to eu.minexpool.nl:9999.
+[2018-01-24 17:39:13.526] [default] [info] Extranonce is '18050ae9'.
+[2018-01-24 17:39:13.686] [default] [info] Mining target is 0000400000000000000000000000000000000000000000000000000000000000
+[2018-01-24 17:39:13.686] [default] [info] Got new work.
+[2018-01-24 17:39:13.686] [default] [info] GPU0 Got work, start mining.
+[2018-01-24 17:39:13.891] [default] [info] Connected to eu.minexpool.nl:9999.

@@ -1,0 +1,253 @@
+13:06:30:873	5f84e740	args: -ewal 34989a5480af30e3ddedb4926f18814dd0ddff96.Default -epool us2.ethermine.org:4444 -eworker Default -epsw x -dpsw x -mode 0 -dcoin sc -dwal b65e3eeceb5e82196df705bc38b4cc15f63382e16d71ed8c2b495d710ee2ff30734040da506f -dpool stratum+tcp://us-west.siamining.com:7777 -allpools 1 -colors 0 
+13:06:30:873	5f84e740	
+13:06:30:873	5f84e740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+13:06:30:873	5f84e740	บ     Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v10.0      บ
+13:06:30:873	5f84e740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+13:06:30:873	5f84e740	
+13:06:31:074	5f84e740	This pool (eth-eu2.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	This pool (eth-eu2.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	Pool eth-eu2.nanopool.org removed from the list
+13:06:31:074	5f84e740	This pool (eth-us-east1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	This pool (eth-us-east1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	Pool eth-us-east1.nanopool.org removed from the list
+13:06:31:074	5f84e740	This pool (eth-us-west1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	This pool (eth-us-west1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:074	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:074	5f84e740	Please read "Readme" file for details
+13:06:31:074	5f84e740	Pool eth-us-west1.nanopool.org removed from the list
+13:06:31:075	5f84e740	This pool (eth-asia1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:075	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:075	5f84e740	Please read "Readme" file for details
+13:06:31:075	5f84e740	This pool (eth-asia1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+13:06:31:075	5f84e740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+13:06:31:075	5f84e740	Please read "Readme" file for details
+13:06:31:075	5f84e740	Pool eth-asia1.nanopool.org removed from the list
+13:06:31:075	5f84e740	ETH: 1 pool is specified
+13:06:31:075	5f84e740	Main Ethereum pool is us2.ethermine.org:4444
+13:06:31:075	5f84e740	SC: 5 pools are specified
+13:06:31:075	5f84e740	Main Siacoin pool is us-west.siamining.com:7777
+13:06:31:135	5f84e740	OpenCL platform: NVIDIA CUDA
+13:06:31:136	5f84e740	OpenCL platform: Clover
+13:06:31:136	5f84e740	AMD OpenCL platform not found 
+13:06:31:142	5f84e740	CUDA initializing...
+
+13:06:31:142	5f84e740	NVIDIA Cards available: 1 
+13:06:31:142	5f84e740	CUDA Driver Version/Runtime Version: 9.0/8.0
+13:06:31:142	5f84e740	GPU #0: GeForce GTX 1080 Ti, 11169 MB available, 28 compute units, capability: 6.1
+
+13:06:31:143	5f84e740	Total cards: 1 
+13:06:35:144	5f84e740	No AMD cards in the list, ADL library will not be used.
+13:06:35:146	5f84e740	NVML version: 9.384.130
+13:06:35:346	5f84e740	DUAL MINING MODE ENABLED: ETHEREUM+SIACOIN
+13:06:35:346	5f84e740	ETH: eth-proxy stratum mode
+13:06:35:346	5f84e740	"-allpools" option is set, default pools can be used for devfee, check "Readme" file for details.
+13:06:35:346	5f84e740	Watchdog enabled
+13:06:35:346	5f84e740	Remote management (READ-ONLY MODE) is enabled on port 3333
+13:06:35:346	5f84e740	
+13:06:35:382	41732700	ETH: Stratum - connecting to 'us2.ethermine.org' <52.37.202.243> port 4444
+13:06:35:421	40d2a700	 SC: Stratum - connecting to 'us-west.siamining.com' <50.116.14.37> port 7777
+13:06:35:434	41732700	send: {"worker": "Default", "jsonrpc": "2.0", "params": ["34989a5480af30e3ddedb4926f18814dd0ddff96.Default", "x"], "id": 2, "method": "eth_submitLogin"}
+
+13:06:35:434	41732700	ETH: Stratum - Connected (us2.ethermine.org:4444)
+13:06:35:460	40d2a700	send: {"id": 1, "method": "mining.subscribe", "params": []}
+
+13:06:35:460	40d2a700	send: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+13:06:35:460	40d2a700	send: {"id": 2, "method": "mining.authorize", "params": ["b65e3eeceb5e82196df705bc38b4cc15f63382e16d71ed8c2b495d710ee2ff30734040da506f","x"]}
+
+13:06:35:460	40d2a700	 SC: Stratum - Connected (us-west.siamining.com:7777)
+13:06:35:494	41732700	got 39 bytes
+13:06:35:494	41732700	buf: {"id":2,"jsonrpc":"2.0","result":true}
+
+13:06:35:494	41732700	parse packet: 38
+13:06:35:495	41732700	ETH: Authorized
+13:06:35:495	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:06:35:495	41732700	new buf size: 0
+13:06:35:511	40d2a700	got 182 bytes
+13:06:35:511	40d2a700	buf: {"id":1,"error":null,"result":[[["mining.notify","020078c81a74f71d"],["mining.set_difficulty","020078c81a74f71d2"]],"020078c8",4]}
+{"id":7,"method":"client.get_version","params":[]}
+
+13:06:35:511	40d2a700	parse packet: 130
+13:06:35:511	40d2a700	remove first packet 51
+13:06:35:511	40d2a700	new buf size: 51
+13:06:35:511	40d2a700	parse packet: 50
+13:06:35:511	40d2a700	send: {"error": null, "id": 7, "result": "sia 1.0"}
+
+13:06:35:511	40d2a700	new buf size: 0
+13:06:35:545	41732700	got 248 bytes
+13:06:35:545	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0x9d2ab6c635bd927c9adc5e972c033bc0d88d3f4c54190e17786545c4e97afea8","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571ffc"]}
+
+13:06:35:545	41732700	parse packet: 247
+13:06:35:545	41732700	ETH: job changed
+13:06:35:545	41732700	new buf size: 0
+13:06:35:550	43f37700	Setting DAG epoch #190...
+13:06:35:552	40d2a700	got 405 bytes
+13:06:35:552	40d2a700	buf: {"id":null,"method":"mining.set_difficulty","params":[127.99804687500045]}
+{"id":null,"method":"mining.notify","params":["fc46","0x00000000000000002555a660cbddb273a67b79f4c2112312fde602daa8898d640000000000000000a747105b000000003dbbdce29d92c0df862a58a09736bd804adff6043db26d5c12bc4d3c48c1d11c","0x0000000001ffffffffffffffffffffffffffffffffffffffffffffffffffffff",true]}
+{"id":2,"error":null,"result":true}
+
+13:06:35:552	40d2a700	parse packet: 74
+13:06:35:552	40d2a700	remove first packet 330
+13:06:35:552	40d2a700	new buf size: 330
+13:06:35:552	40d2a700	parse packet: 293
+13:06:35:552	40d2a700	sc: job changed
+13:06:35:552	40d2a700	remove first packet 36
+13:06:35:552	40d2a700	new buf size: 36
+13:06:35:552	40d2a700	parse packet: 35
+13:06:35:552	40d2a700	 SC: Authorized
+13:06:35:552	40d2a700	new buf size: 0
+13:06:37:771	43f37700	Setting DAG epoch #190 for GPU0
+13:06:37:771	43f37700	Create GPU buffer for GPU0
+13:06:42:961	41732700	got 248 bytes
+13:06:42:961	41732700	buf: {"id":0,"jsonrpc":"2.0","result":["0x7b9d29a4e3f56bff7b8a6e5f229cef342530c33e62dbfa8a75c6918b8010b31b","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571ffd"]}
+
+13:06:42:961	41732700	parse packet: 247
+13:06:42:961	41732700	ETH: job changed
+13:06:42:961	41732700	new buf size: 0
+13:06:42:961	41732700	ETH: 05/31/18-13:06:42 - New job from us2.ethermine.org:4444
+13:06:42:961	41732700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 190(2.48GB)
+13:06:42:961	41732700	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+13:06:42:961	41732700	ETH: GPU0 0.000 Mh/s
+13:06:42:961	41732700	 SC - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0
+13:06:42:961	41732700	 SC: GPU0 0.000 Mh/s
+13:06:44:359	43f37700	GPU0 DAG creation time - 6581 ms
+13:06:44:359	43f37700	Setting DAG epoch #190 for GPU0 done
+13:06:45:546	41732700	ETH: checking pool connection...
+13:06:45:546	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:06:45:595	41732700	got 248 bytes
+13:06:45:595	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0x7b9d29a4e3f56bff7b8a6e5f229cef342530c33e62dbfa8a75c6918b8010b31b","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571ffd"]}
+
+13:06:45:595	41732700	parse packet: 247
+13:06:45:596	41732700	ETH: job is the same
+13:06:45:596	41732700	new buf size: 0
+13:06:55:546	41732700	send: {"id":6,"worker":"Default","jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x1e1ed7e", "0x00000000000000000000000000000000000000000000000000000000095493d4"]}
+
+13:06:55:547	41732700	ETH: checking pool connection...
+13:06:55:547	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:06:55:595	41732700	got 39 bytes
+13:06:55:595	41732700	buf: {"id":6,"jsonrpc":"2.0","result":true}
+
+13:06:55:595	41732700	parse packet: 38
+13:06:55:595	41732700	new buf size: 0
+13:06:55:644	41732700	got 248 bytes
+13:06:55:644	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0x7b9d29a4e3f56bff7b8a6e5f229cef342530c33e62dbfa8a75c6918b8010b31b","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571ffd"]}
+
+13:06:55:644	41732700	parse packet: 247
+13:06:55:644	41732700	ETH: job is the same
+13:06:55:644	41732700	new buf size: 0
+13:06:56:762	41732700	got 248 bytes
+13:06:56:762	41732700	buf: {"id":0,"jsonrpc":"2.0","result":["0x9dab97af856a50233b2f14bbae2a22f66bb20c2ede2a2d65f97da26ddf673ac9","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571ffe"]}
+
+13:06:56:762	41732700	parse packet: 247
+13:06:56:762	41732700	ETH: job changed
+13:06:56:762	41732700	new buf size: 0
+13:06:56:762	41732700	ETH: 05/31/18-13:06:56 - New job from us2.ethermine.org:4444
+13:06:56:762	41732700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 190(2.48GB)
+13:06:56:762	41732700	ETH - Total Speed: 31.886 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+13:06:56:762	41732700	ETH: GPU0 31.886 Mh/s
+13:06:56:763	41732700	 SC - Total Speed: 318.856 Mh/s, Total Shares: 0, Rejected: 0
+13:06:56:763	41732700	 SC: GPU0 318.856 Mh/s
+13:07:00:823	41732700	got 248 bytes
+13:07:00:823	41732700	buf: {"id":0,"jsonrpc":"2.0","result":["0x6b13ff8a4c0812c8e6eb3293b471aa282d8875116ddda86d093a0ebfe4a0c25b","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x571fff"]}
+
+13:07:00:823	41732700	parse packet: 247
+13:07:00:823	41732700	ETH: job changed
+13:07:00:823	41732700	new buf size: 0
+13:07:00:823	41732700	ETH: 05/31/18-13:07:00 - New job from us2.ethermine.org:4444
+13:07:00:823	41732700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 190(2.48GB)
+13:07:00:823	41732700	ETH - Total Speed: 32.088 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+13:07:00:823	41732700	ETH: GPU0 32.088 Mh/s
+13:07:00:823	41732700	 SC - Total Speed: 320.882 Mh/s, Total Shares: 0, Rejected: 0
+13:07:00:823	41732700	 SC: GPU0 320.882 Mh/s
+13:07:01:113	58a13700	GPU0 t=67C fan=40%
+13:07:01:113	58a13700	em hbt: 1, dm hbt: 0, fm hbt: 39, 
+13:07:01:113	58a13700	watchdog - thread 0 (gpu0), hb time 330
+13:07:01:113	58a13700	watchdog - thread 1 (gpu0), hb time 159
+13:07:05:236	41732700	got 248 bytes
+13:07:05:236	41732700	buf: {"id":0,"jsonrpc":"2.0","result":["0x250e311337a2e9491db3ccd524644726fa0681be61283968382ade6695dc2375","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x572000"]}
+
+13:07:05:236	41732700	parse packet: 247
+13:07:05:236	41732700	ETH: job changed
+13:07:05:236	41732700	new buf size: 0
+13:07:05:236	41732700	ETH: 05/31/18-13:07:05 - New job from us2.ethermine.org:4444
+13:07:05:236	41732700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 190(2.48GB)
+13:07:05:236	41732700	ETH - Total Speed: 32.191 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+13:07:05:236	41732700	ETH: GPU0 32.191 Mh/s
+13:07:05:236	41732700	 SC - Total Speed: 321.908 Mh/s, Total Shares: 0, Rejected: 0
+13:07:05:236	41732700	 SC: GPU0 321.908 Mh/s
+13:07:05:548	41732700	ETH: checking pool connection...
+13:07:05:548	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:07:05:597	41732700	got 248 bytes
+13:07:05:597	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0x250e311337a2e9491db3ccd524644726fa0681be61283968382ade6695dc2375","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x572000"]}
+
+13:07:05:597	41732700	parse packet: 247
+13:07:05:597	41732700	ETH: job is the same
+13:07:05:597	41732700	new buf size: 0
+13:07:10:633	41732700	got 248 bytes
+13:07:10:633	41732700	buf: {"id":0,"jsonrpc":"2.0","result":["0xc539c5a9e4c55e0c40a93d28741f89b67d133f1220a76ff86420ec4b9cef731a","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x572001"]}
+
+13:07:10:633	41732700	parse packet: 247
+13:07:10:634	41732700	ETH: job changed
+13:07:10:634	41732700	new buf size: 0
+13:07:10:634	41732700	ETH: 05/31/18-13:07:10 - New job from us2.ethermine.org:4444
+13:07:10:634	41732700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 190(2.48GB)
+13:07:10:634	41732700	ETH - Total Speed: 32.116 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+13:07:10:634	41732700	ETH: GPU0 32.116 Mh/s
+13:07:10:634	41732700	 SC - Total Speed: 321.164 Mh/s, Total Shares: 0, Rejected: 0
+13:07:10:634	41732700	 SC: GPU0 321.164 Mh/s
+13:07:10:719	40d2a700	got 370 bytes
+13:07:10:719	40d2a700	buf: {"id":null,"method":"mining.set_difficulty","params":[15.999755859375057]}
+{"id":null,"method":"mining.notify","params":["fc47","0x00000000000000002555a660cbddb273a67b79f4c2112312fde602daa8898d640000000000000000bc47105b00000000364cec5af03f3f5856b46cbb778387eba6314c245b4bd07474074731b8d51f76","0x000000000fffffffffffffffffffffffffffffffffffffffffffffffffffffff",false]}
+
+13:07:10:719	40d2a700	parse packet: 74
+13:07:10:719	40d2a700	remove first packet 295
+13:07:10:719	40d2a700	new buf size: 295
+13:07:10:719	40d2a700	parse packet: 294
+13:07:10:719	40d2a700	sc: job changed(2)
+13:07:10:719	40d2a700	new buf size: 0
+13:07:10:719	40d2a700	 SC: 05/31/18-13:07:10 - New job from us-west.siamining.com:7777
+13:07:10:720	40d2a700	target: 0x000000000fffffff (diff: 68GH)
+13:07:15:547	41732700	send: {"id":6,"worker":"Default","jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x1e481de", "0x00000000000000000000000000000000000000000000000000000000095493d4"]}
+
+13:07:15:549	41732700	ETH: checking pool connection...
+13:07:15:550	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:07:15:597	41732700	got 39 bytes
+13:07:15:597	41732700	buf: {"id":6,"jsonrpc":"2.0","result":true}
+
+13:07:15:597	41732700	parse packet: 38
+13:07:15:597	41732700	new buf size: 0
+13:07:15:645	41732700	got 248 bytes
+13:07:15:645	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0xc539c5a9e4c55e0c40a93d28741f89b67d133f1220a76ff86420ec4b9cef731a","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x572001"]}
+
+13:07:15:645	41732700	parse packet: 247
+13:07:15:645	41732700	ETH: job is the same
+13:07:15:645	41732700	new buf size: 0
+13:07:25:551	41732700	ETH: checking pool connection...
+13:07:25:551	41732700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+13:07:25:601	41732700	got 248 bytes
+13:07:25:601	41732700	buf: {"id":3,"jsonrpc":"2.0","result":["0xc539c5a9e4c55e0c40a93d28741f89b67d133f1220a76ff86420ec4b9cef731a","0x7538728108738be6e9c6144f1b4c22b5fc45e645bf474d84a4d6ae0fb0e71f59","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x572001"]}
+
+13:07:25:601	41732700	parse packet: 247
+13:07:25:601	41732700	ETH: job is the same
+13:07:25:601	41732700	new buf size: 0
+13:07:30:679	43f37700	SC: put share nonce 13a006f enonce b7b60072
+13:07:30:679	43f37700	SC round found 1 shares
+13:07:30:680	40d2a700	 SC: 05/31/18-13:07:30 - SHARE FOUND - (GPU 0)
+13:07:30:680	40d2a700	send: {"id": 4, "method": "mining.submit", "params": ["b65e3eeceb5e82196df705bc38b4cc15f63382e16d71ed8c2b495d710ee2ff30734040da506f","fc47","0x00000000000000002555a660cbddb273a67b79f4c2112312fde602daa8898d646f003a017200b6b7bc47105b00000000364cec5af03f3f5856b46cbb778387eba6314c245b4bd07474074731b8d51f76"]}
+

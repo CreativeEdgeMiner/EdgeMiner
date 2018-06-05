@@ -1,0 +1,60 @@
+16:40:48:338	15743740	args: -ewal 34989a5480af30e3ddedb4926f18814dd0ddff96.Default -epool us2.ethermine.org:4444 -eworker Default -epsw x -dpsw x -mode 0 -dcoin sc -dwal b65e3eeceb5e82196df705bc38b4cc15f63382e16d71ed8c2b495d710ee2ff30734040da506f -dpool stratum+tcp://us-west.siamining.com:7777 -allpools 1 -colors 0 
+16:40:48:339	15743740	
+16:40:48:339	15743740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+16:40:48:339	15743740	บ     Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v10.0      บ
+16:40:48:339	15743740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+16:40:48:339	15743740	
+16:40:48:539	15743740	This pool (eth-eu2.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:539	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:539	15743740	Please read "Readme" file for details
+16:40:48:539	15743740	This pool (eth-eu2.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:539	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:539	15743740	Please read "Readme" file for details
+16:40:48:539	15743740	Pool eth-eu2.nanopool.org removed from the list
+16:40:48:539	15743740	This pool (eth-us-east1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:539	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	This pool (eth-us-east1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:540	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	Pool eth-us-east1.nanopool.org removed from the list
+16:40:48:540	15743740	This pool (eth-us-west1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:540	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	This pool (eth-us-west1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:540	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	Pool eth-us-west1.nanopool.org removed from the list
+16:40:48:540	15743740	This pool (eth-asia1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:540	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	This pool (eth-asia1.nanopool.org) does not support Ethereum addresses as login (or requires worker name in "Login.Worker" format) and cannot be used for devfee mining, therefore it is not supported.
+16:40:48:540	15743740	However, you can mine on this pool if you specify "-allpools 1" option, default pools (different from this pool) will be used for devfee.
+16:40:48:540	15743740	Please read "Readme" file for details
+16:40:48:540	15743740	Pool eth-asia1.nanopool.org removed from the list
+16:40:48:540	15743740	ETH: 1 pool is specified
+16:40:48:540	15743740	Main Ethereum pool is us2.ethermine.org:4444
+16:40:48:540	15743740	SC: 5 pools are specified
+16:40:48:540	15743740	Main Siacoin pool is us-west.siamining.com:7777
+16:40:48:603	15743740	OpenCL platform: NVIDIA CUDA
+16:40:48:604	15743740	OpenCL platform: Clover
+16:40:48:604	15743740	AMD OpenCL platform not found 
+16:40:48:610	15743740	CUDA initializing...
+
+16:40:48:610	15743740	NVIDIA Cards available: 1 
+16:40:48:610	15743740	CUDA Driver Version/Runtime Version: 9.0/8.0
+16:40:48:611	15743740	GPU #0: GeForce GTX 1080 Ti, 11169 MB available, 28 compute units, capability: 6.1
+
+16:40:48:611	15743740	Total cards: 1 
+16:40:52:613	15743740	No AMD cards in the list, ADL library will not be used.
+16:40:52:615	15743740	NVML version: 9.384.130
+16:40:52:748	f7627700	ETH: Stratum - connecting to 'us2.ethermine.org' <34.213.1.169> port 4444
+16:40:52:798	f7627700	send: {"worker": "Default", "jsonrpc": "2.0", "params": ["34989a5480af30e3ddedb4926f18814dd0ddff96.Default", "x"], "id": 2, "method": "eth_submitLogin"}
+
+16:40:52:798	f7627700	ETH: Stratum - Connected (us2.ethermine.org:4444)
+16:40:52:813	15743740	DUAL MINING MODE ENABLED: ETHEREUM+SIACOIN
+16:40:52:813	15743740	ETH: eth-proxy stratum mode
+16:40:52:813	15743740	"-allpools" option is set, default pools can be used for devfee, check "Readme" file for details.
+16:40:52:813	15743740	Watchdog enabled
+16:40:52:813	15743740	Remote management (READ-ONLY MODE) is enabled on port 3333
+16:40:52:813	15743740	
