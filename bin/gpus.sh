@@ -1,4 +1,9 @@
 #!/bin/bash
+if ! dpkg -l clinfo &> /dev/null
+then
+	apt install -y clinfo
+fi
+
 # Environment variables should already be set but just in case #
 [[ -z "$GPU_TYPE_FILE" ]] && GPU_TYPE_FILE=".local/gpu_type"
 [[ -z "$GPU_OPENCL_REORDER" ]] && GPU_OPENCL_REORDER=".local/cl_reorder"
@@ -44,7 +49,6 @@ do
 	then
 		is_nvidia+=(1)
 	else
-		is_nvidia+=(2)
 		continue
 	fi
 

@@ -1,11 +1,2 @@
-# Format:  (temp,fan_percent)
-# Sets fan to percentage with closest matching temp
-(0,20)
-(50,25)
-(60,35)
-(65,45)
-(70,55)
-(75,70)
-(80,80)
-(85,95)
-(90,100)
+10 10
+100 100

@@ -11,8 +11,8 @@ echo "Adjust the pool data below and remove this line!"
 
 
 # suprnova.cc
-POOL=eu.minexpool.nl:9999
-USER=XHAjkFKAvTwwwf8RCQshXjLuHxjkZ3KwvB.
+POOL=mnx.suprnova.cc:7077
+USER=moobar.worker
 PASSWORD=x
 
 cd "$(dirname "$0")"
