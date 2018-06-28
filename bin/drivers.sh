@@ -93,6 +93,9 @@ cuda_install()
 		apt install -y linux-headers-$(uname -r)
 	fi
 
+	add-apt-repository ppa:graphics-drivers/ppa
+	apt update
+
 	case "$install_file" in 
 		*.deb)
 			if ! dpkg -i "$install_file" | tee -a "$MINE_LOG"
