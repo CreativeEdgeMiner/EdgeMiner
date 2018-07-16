@@ -69,11 +69,11 @@ then
 					watt_avg=${line%%W*}
 					watts_avg[$i]=$watt_avg
 				;;
-				*MCLK*)
+				*(MCLK)*)
 					mclk=${line%%MHz*}
 					mclks[$i]=$mclk
 				;;
-				*SCLK*)
+				*(SCLK)*)
 					sclk=${line%%MHz*}
 					sclks[$i]=$sclk
 				;;
